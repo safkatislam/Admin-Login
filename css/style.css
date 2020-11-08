@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+
+.container{
+    width: 450px;
+    background-color: yellow;
+    border: 1px solid;
+    margin:0px auto;
+}
+
+
+.login-section {
+        background-color: purple;
+        padding: 20px;
+    }
+body {
+    font-family: 'Turret Road', cursive;
+    background-image: url(../img/pexels-isaac-taylor-2119758.jpg);
+}
+div p span {
+
+    background-color: aquamarine;   
+
+}
+
+.admin-image
+    {
+        margin: 0px auto;
+        display: block;
+        width: 30%;
+        border: 1px solid;
+    }
+.login-section h3
+    {
+        margin: 0px;
+        text-align: center;
+        color: white;
+        font-size: 25px;
+        margin: 10px 0px;
+    }
+    .form-controller{
+        padding: 15px;
+        margin: 10px;
+        width: 90%;
+    }
+    .btn {
+        background-color: blue;
+        padding: 10px 20px;
+        margin: 0px auto;
+        display: block;
+        color: white;
+        border: 0px;
+        text-transform: full-width;
+        transition: 0.6s ease-out;
+    }
+    
+    .btn:hover{
+
+        box-shadow: 1px 1px 3px white;
+        cursor: pointer;
+
+    }
