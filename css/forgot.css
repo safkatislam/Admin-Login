@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-image: url(../img/signup.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 720px;
+    margin: 20px auto;
+    padding: 3px;
+    border: 3px solid;
+    border-radius: 5px;
+}
+
+.form-controller {
+    padding: 7px;
+    margin: 7px;
+    width: 80%;
+}
+
+.btn{
+    padding: 5px;
+    margin: 7px;
+    border: steelblue 1.5px solid;
+    border-radius: 7px;    
+}
+
+.btn:hover{
+    box-shadow: 5px 5   px 5px cornsilk;
+    cursor: pointer;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.forgot-img{
+    height:20%;
+    width: 20%  ;
+}
